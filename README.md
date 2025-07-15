@@ -26,7 +26,7 @@
   <p>O usuário pode apagar os dados do app diretamente nas configurações do dispositivo.</p>
 
   <h2>6. Contato</h2>
-  <p>Em caso de dúvidas: <a href="blast@blast3d.com.br">seuemail@exemplo.com</a></p>
+  <p>Em caso de dúvidas: <a href="blast@blast3d.com.br">blast@blast3d.com.br</a></p>
 
   <h2>7. Alterações</h2>
   <p>Atualizações serão informadas no próprio app ou na loja.</p>
